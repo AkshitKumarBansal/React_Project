@@ -5,7 +5,7 @@ WORKDIR /app
 
 COPY . .
 
-Run napm install
+Run npm install
 
 EXPOSE 3000
 
